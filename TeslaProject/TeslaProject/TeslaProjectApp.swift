@@ -11,7 +11,7 @@ import SwiftUI
 struct TeslaProjectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LogoTeslaView()
         }
     }
 }
